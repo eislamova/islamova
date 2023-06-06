@@ -9,7 +9,7 @@ int Fibonaccir(int n) {
 
 int main() {
     int n;
-    cout << "Enter the value of n: ";
+    cout << "Enter n: ";
     cin >> n;
 
     int result = Fibonaccir(n);
